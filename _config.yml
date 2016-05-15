@@ -71,4 +71,3 @@ deploy:
   type: git
   repo: https://github.com/HansS/cas-fee-2016.git
   branch: master
-  message: [message]
